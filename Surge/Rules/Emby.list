@@ -1,6 +1,9 @@
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 
+# termius+
+DOMAIN-SUFFIX,zdz.plus
+
 # Odyssey+
 DOMAIN-SUFFIX,odysseyplus.site
 
@@ -14,3 +17,6 @@ DOMAIN-SUFFIX,pilipiliultra.com
 
 # 纸片人
 DOMAIN,embyplus.org
+
+# long emby
+DOMAIN-SUFFIX,longemby.com
